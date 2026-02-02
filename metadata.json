@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Garçom Livre",
+  "description": "Uma plataforma moderna conectando garçons profissionais a estabelecimentos que buscam qualidade e eficiência em tempo real.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
